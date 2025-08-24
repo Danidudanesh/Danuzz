@@ -1,12 +1,12 @@
 {
-  "name": "Queen_Anju",
-  "version": "4",
-  "description": "A Simple WhatsApp bot created By King-Rashmika",
-  "main": "queen.js",
+  "name": "Danuzz-MD",
+  "version": "1",
+  "description": "A Simple WhatsApp bot created By Danidu Danesh",
+  "main": "danuzz.js",
   "scripts": {
-    "start": "pm2 start queen.js --deep-monitoring --attach --name Queen_Anju",
-    "stop": "pm2 stop Queen_Anju",
-    "restart": "pm2 restart Queen_Anju"
+    "start": "pm2 start danuzz.js --deep-monitoring --attach --name Danuzz-MD",
+    "stop": "pm2 stop Danuzz-MD",
+    "restart": "pm2 restart Danuzz-MD"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
